@@ -1,0 +1,18 @@
+.nav{
+    display:flex;
+    flex-direction: row;
+    background-color: #66abd4;
+    border-bottom: 1px solid black;
+}
+
+.nav-ul{
+    display:flex;
+    flex-direction: row;
+    list-style: none;
+    
+}
+
+.nav-li{
+    margin-left: 20px;
+    text-decoration: none;
+}
